@@ -1,0 +1,22 @@
+header.jumbotron {
+    margin: 0;
+    background-color: rgb(39, 39, 54);
+}
+
+h1.display-4 {
+    color: blanchedalmond;
+}
+
+#dropzone1 {
+    border: 1px solid rgb(7, 6, 6);
+    margin: 10px;
+}
+
+#dropzone2 {
+    border: 1px solid rgb(7, 6, 6);
+    margin: 10px;
+}
+
+div input{
+    width: 158px;
+}
